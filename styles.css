@@ -19,12 +19,12 @@ button{
     height: 50px;
     width: 160px;
     font-size: 20px;
-    border-radius: 3px;
+    border-radius: 12px;
 }
 button:hover{
     color:rgb(0, 255, 0);
     background-color: black; 
-    border-radius: 12px;
+    border-radius: 20px;
 }
 special{
     font-size: 50px;
